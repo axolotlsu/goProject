@@ -1,0 +1,10 @@
+Go is expressive, concise, clean, and efficient.
+Its concurrency mechanisms make it easy to write programs
+that get the most out of multicore and networked machines.
+
+Go compiles quickly to machine code yet has the convenience
+of garbage collection and the power of run-time reflection.
+
+Go is expressive! Go is fun. Don't you think so?
+123 123 test123 go Go gO GO.
+Let's count how many times each word appears.
